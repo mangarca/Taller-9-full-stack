@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-color: black;
+} 
+table{
+    color: black;
+    border: 1px solid black;
+    background-color: yellow;
+    border-collapse: collapse;
+}
+th, td{
+    border: solid 1px black;
+}
